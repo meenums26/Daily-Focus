@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/daily-focus/static/css/main.7e3fd0ea.chunk.css",
+    "main.js": "/daily-focus/static/js/main.7d335a69.chunk.js",
+    "main.js.map": "/daily-focus/static/js/main.7d335a69.chunk.js.map",
+    "runtime-main.js": "/daily-focus/static/js/runtime-main.5ea814e9.js",
+    "runtime-main.js.map": "/daily-focus/static/js/runtime-main.5ea814e9.js.map",
+    "static/css/2.11829350.chunk.css": "/daily-focus/static/css/2.11829350.chunk.css",
+    "static/js/2.58f373db.chunk.js": "/daily-focus/static/js/2.58f373db.chunk.js",
+    "static/js/2.58f373db.chunk.js.map": "/daily-focus/static/js/2.58f373db.chunk.js.map",
+    "index.html": "/daily-focus/index.html",
+    "precache-manifest.146005d6d25ff2d68f0f4c6b40e90e94.js": "/daily-focus/precache-manifest.146005d6d25ff2d68f0f4c6b40e90e94.js",
+    "service-worker.js": "/daily-focus/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/daily-focus/static/css/2.11829350.chunk.css.map",
+    "static/css/main.7e3fd0ea.chunk.css.map": "/daily-focus/static/css/main.7e3fd0ea.chunk.css.map",
+    "static/js/2.58f373db.chunk.js.LICENSE.txt": "/daily-focus/static/js/2.58f373db.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/daily-focus/static/media/lerone-pieters-XnBrDrAJaoo-unsplash.c1f4fbc7.jpg",
+    "static/media/newyork.png": "/daily-focus/static/media/newyork.9c233d75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ea814e9.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.58f373db.chunk.js",
+    "static/css/main.7e3fd0ea.chunk.css",
+    "static/js/main.7d335a69.chunk.js"
+  ]
+}
