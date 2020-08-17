@@ -15,7 +15,7 @@ class Header extends Component{
                 
                  <div className="col-xl-6 col-md-5 col-lg-5">
                   <ul>
-                  <li><NavLink exact to="./">HOME</NavLink></li>
+                  <li><NavLink exact to="">HOME</NavLink></li>
                   <li><NavLink to="./world">WORLD</NavLink></li>
                   <li><NavLink to="./art">ART</NavLink></li>
                   <li><NavLink to="./science">SCIENCE</NavLink></li>
