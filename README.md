@@ -1,5 +1,8 @@
 # daily-focus
 Just clone the application and use npm install.
+
+Online demo : http://meenums26.github.io/daily-focus
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
