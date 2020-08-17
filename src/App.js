@@ -18,11 +18,11 @@ class App extends Component{
         <Container fluid>
           <Header/>
           <Switch>
-           <Route exact path="" component={Home}/>
-           <Route exact path="./world" component={World}/>
-           <Route exact path="./art" component={Art}/>
-           <Route exact path="./science" component={Science}/>
-           <Route exact path="./search" component={Search}/>
+           <Route exact path="/" component={Home}/>
+           <Route exact path="/world" component={World}/>
+           <Route exact path="/art" component={Art}/>
+           <Route exact path="/science" component={Science}/>
+           <Route exact path="/search" component={Search}/>
           </Switch>
         </Container>
         </BrowserRouter>
