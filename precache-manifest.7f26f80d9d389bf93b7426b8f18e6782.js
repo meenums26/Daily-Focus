@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5dabda641e80bd542606db3cc99fa3cd",
+    "revision": "6d4fb213af1f453d8a90dca5d6de463a",
     "url": "/daily-focus/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daily-focus/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "b94916a49e498bd6c76c",
+    "revision": "95809027f64a463eaabe",
     "url": "/daily-focus/static/css/main.7e3fd0ea.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daily-focus/static/js/2.58f373db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b94916a49e498bd6c76c",
-    "url": "/daily-focus/static/js/main.7d335a69.chunk.js"
+    "revision": "95809027f64a463eaabe",
+    "url": "/daily-focus/static/js/main.070001e2.chunk.js"
   },
   {
     "revision": "9fce49284043d284e1b1",
