@@ -1,6 +1,4 @@
 # daily-focus
-Just clone the application and use npm install.
-
-Online demo : http://meenums26.github.io/daily-focus
-
+It is a news website created using React Js. 
+The news datas are collected using New York Times API
 
